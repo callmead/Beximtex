@@ -1,0 +1,35 @@
+[PropertyInfo]
+btnAbout,JButton,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnInvo,JButton,false,false, , ,false,<default>
+btnPurc,JButton,false,false, , ,false,<default>
+btnSale,JButton,false,false, , ,false,<default>
+btnSupp,JButton,false,false, , ,false,<default>
+dp,JDesktopPane,false,false, , ,false,<default>
+imgAbout,ImageIcon,false,false, , ,false,<default>
+imgExit,ImageIcon,false,false, , ,false,<default>
+imgInvo,ImageIcon,false,false, , ,false,<default>
+imgPurc,ImageIcon,false,false, , ,false,<default>
+imgSale,ImageIcon,false,false, , ,false,<default>
+imgSupp,ImageIcon,false,false, , ,false,<default>
+lblStatus,JLabel,false,false, , ,false,<default>
+mb,JMenuBar,false,false, , ,false,<default>
+miAbout,JMenuItem,false,false, , ,false,<default>
+miByID,JMenuItem,false,false, , ,false,<default>
+miByName,JMenuItem,false,false, , ,false,<default>
+miExit,JMenuItem,false,false, , ,false,<default>
+miInvoice,JMenuItem,false,false, , ,false,<default>
+miPurchase,JMenuItem,false,false, , ,false,<default>
+miSalesman,JMenuItem,false,false, , ,false,<default>
+miSupplier,JMenuItem,false,false, , ,false,<default>
+mnuFile,JMenu,false,false, , ,false,<default>
+mnuHelp,JMenu,false,false, , ,false,<default>
+mnuList,JMenu,false,false, , ,false,<default>
+mnuQuery,JMenu,false,false, , ,false,<default>
+mnuReport,JMenu,false,false, , ,false,<default>
+tb,JToolBar,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

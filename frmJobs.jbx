@@ -1,0 +1,55 @@
+[PropertyInfo]
+bg,ButtonGroup,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+btnCancel,JToggleButton,false,false, , ,false,<default>
+btnClose,JToggleButton,false,false, , ,false,<default>
+btnDelete,JToggleButton,false,false, , ,false,<default>
+btnEdit,JToggleButton,false,false, , ,false,<default>
+btnNew,JToggleButton,false,false, , ,false,<default>
+btnNext,JToggleButton,false,false, , ,false,<default>
+btnPrev,JToggleButton,false,false, , ,false,<default>
+btnSave,JToggleButton,false,false, , ,false,<default>
+ColumHead,Vector,false,false, , ,false,<default>
+Columns,int,false,false, , ,false,<default>
+db,DBU,false,false, , ,false,<default>
+Head,String,false,false, , ,false,<default>
+lblDate,JLabel,false,false, , ,false,<default>
+lblDept1,JLabel,false,false, , ,false,<default>
+lblEID,JLabel,false,false, , ,false,<default>
+lblEmpCode,JLabel,false,false, , ,false,<default>
+lblFrom,JLabel,false,false, , ,false,<default>
+lblHead,JLabel,false,false, , ,false,<default>
+lblJS,JLabel,false,false, , ,false,<default>
+lblRec,JLabel,false,false, , ,false,<default>
+lblReqID,JLabel,false,false, , ,false,<default>
+pnlButtons,JPanel,false,false, , ,false,<default>
+pnlFields,JPanel,false,false, , ,false,<default>
+pnlTab,JPanel,false,false, , ,false,<default>
+rdoClear,JRadioButton,false,false, , ,false,<default>
+rdoHold,JRadioButton,false,false, , ,false,<default>
+rdoSFR,JRadioButton,false,false, , ,false,<default>
+rdoUP,JRadioButton,false,false, , ,false,<default>
+rows,Vector,false,false, , ,false,<default>
+Rows,int,false,false, , ,false,<default>
+rs,ResultSet,false,false, , ,false,<default>
+sp,JScrollPane,false,false, , ,false,<default>
+SPtxtR,JScrollPane,false,false, , ,false,<default>
+SQL,String,false,false, , ,false,<default>
+Table,JTable,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+titledBorder2,TitledBorder,false,false, , ,false,<default>
+titledBorder3,TitledBorder,false,false, , ,false,<default>
+TotalCol,int,false,false, , ,false,<default>
+txtDate,JTextField,false,false, , ,false,<default>
+txtEID,JTextField,false,false, , ,false,<default>
+txtEmpCode,JTextField,false,false, , ,false,<default>
+txtName,JTextField,false,false, , ,false,<default>
+txtRemarks,JTextArea,false,false, , ,false,<default>
+txtReqID,JTextField,false,false, , ,false,<default>
+txtSID,JTextField,false,false, , ,false,<default>
+Type,String[][],false,false, , ,false,<default>
+[IconNames]
+
+
+
+

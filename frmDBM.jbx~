@@ -1,0 +1,43 @@
+[PropertyInfo]
+BackupTable1,JTable,false,false, , ,false,<default>
+btnAutoCreate,JToggleButton,false,false, , ,false,<default>
+btnAutoDelete,JToggleButton,false,false, , ,false,<default>
+btnBackup,JButton,false,false, , ,false,<default>
+btnBrowseBkup,JButton,false,false, , ,false,<default>
+btnBrowseRst,JButton,false,false, , ,false,<default>
+btnClose,JToggleButton,false,false, , ,false,<default>
+btnCreate,JToggleButton,false,false, , ,false,<default>
+btnDelete,JToggleButton,false,false, , ,false,<default>
+btnDeleteRecords,JToggleButton,false,false, , ,false,<default>
+btnRestore,JButton,false,false, , ,false,<default>
+CboMT,JComboBox,false,false, , ,false,<default>
+CboTableBk,JComboBox,false,false, , ,false,<default>
+CboTableRst,JComboBox,false,false, , ,false,<default>
+d,Date,false,false, , ,false,<default>
+db,DBU,false,false, , ,false,<default>
+FileName,String,false,false, , ,false,<default>
+imgDB,ImageIcon,false,false, , ,false,<default>
+imgDBM,ImageIcon,false,false, , ,false,<default>
+imgDsk,ImageIcon,false,false, , ,false,<default>
+isBackup,boolean,false,false, , ,false,<default>
+isRestore,boolean,false,false, , ,false,<default>
+jLabel110,JLabel,false,false, , ,false,<default>
+jLabel111,JLabel,false,false, , ,false,<default>
+jLabel112,JLabel,false,false, , ,false,<default>
+jLabel7,JLabel,false,false, , ,false,<default>
+jLabel8,JLabel,false,false, , ,false,<default>
+lblBottom,JLabel,false,false, , ,false,<default>
+lblDisk,JLabel,false,false, , ,false,<default>
+lblHead,JLabel,false,false, , ,false,<default>
+pnlBackup,JPanel,false,false, , ,false,<default>
+pnlBottom,JPanel,false,false, , ,false,<default>
+pnlRestore,JPanel,false,false, , ,false,<default>
+Query,String,false,false, , ,false,<default>
+sdf,SimpleDateFormat,false,false, , ,false,<default>
+txtBrowseBk,JTextField,false,false, , ,false,<default>
+txtBrowseRst,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
